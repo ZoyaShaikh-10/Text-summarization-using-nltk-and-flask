@@ -7,9 +7,9 @@
           -Extractive Summarization
           - Abstractive Summarization
 
-    - Extractive Summarization : Extractive Summarization involves ranking the relevance of phrases in order to choose only those most relevant to the meaning of the source.
+   - Extractive Summarization : Extractive Summarization involves ranking the relevance of phrases in order to choose only those most relevant to the meaning of the source.
     
-    - Abstractive Summarization : Abstractive text summarization involves generating entirely new phrases and sentences to capture the meaning of the source document. 
+   - Abstractive Summarization : Abstractive text summarization involves generating entirely new phrases and sentences to capture the meaning of the source document. 
     
 
 ##deployment - Heroku.

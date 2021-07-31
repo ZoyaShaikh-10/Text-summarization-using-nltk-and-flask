@@ -14,8 +14,8 @@
    - **Abstractive Summarization** : Abstractive text summarization involves generating entirely new phrases and sentences to capture the meaning of the source document. 
     
 
-#Deployment - Heroku.
-- link :
+#Deployment method - Heroku.
+- link : https://text-summarization-nltk.herokuapp.com/
 
 #Project Details:
 - libraries 

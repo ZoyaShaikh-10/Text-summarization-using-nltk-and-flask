@@ -16,10 +16,10 @@
 - link :
 
 #Project Details:
-libraries 
-  - nltk
-  - networkx
-  - numpy
-  - pandas
+- libraries 
+     - nltk
+     - networkx
+     - numpy
+     - pandas
 
 Thank You!

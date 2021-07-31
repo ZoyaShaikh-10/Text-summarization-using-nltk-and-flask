@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spam Classifier</title>
+    <link rel="stylesheet" href="../static/style.css">
+
+</head>
+<body>
+    <div class="heading">
+    <h1 id = 'heading-1'>Text Summarization<h1>
+        <p class = 'summary', id ='sum'>
+    what is Text Summarization ?<p id ='line2'> - It is a technique that shortens long piece of text by retrieving important points only. <p id ='line3'> - Give it a try, By entering text below!</p>
+    </div>
+    <form action = "/predict" method = "POST">
+            <textarea class = "text1" id="text11" name="text" rows="18" cols="45", value="{{request.form['text2']}}">   
+        </textarea>
+        <br>
+
+    <div class= "check">
+    <input type="Submit" class = "info", value = "Give Summary!">
+    </form>
+    <label></label>
+</body>
+</html>
